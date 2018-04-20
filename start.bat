@@ -1,0 +1,1 @@
+C:\Users\Ksenia\AppData\Local\Programs\Python\Python36\python.exe C:\Users\Ksenia\Downloads\chess-master\chess-master\main.py -noconsole
